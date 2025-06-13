@@ -1,4 +1,4 @@
-Os notebooks deste repositório atividades academicas supervisionadas com foco em redes neurais multicamadas,
+Os notebooks deste repositório são atividades academicas com foco em redes neurais multicamadas,
 utilizando conjuntos de dados de domínio público.
 
 Principais conteúdos aplicados dentro dos notebooks:
