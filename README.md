@@ -1,5 +1,5 @@
-Todos os notebooks deste repositório são baseados em tarefas práticas e supervisionadas com foco em aprendizado supervisionado e redes neurais multicamadas,
-utilizando diferentes conjuntos de dados de domínio público.
+Os notebooks deste repositório atividades academicas supervisionadas com foco em redes neurais multicamadas,
+utilizando conjuntos de dados de domínio público.
 
 Principais conteúdos aplicados dentro dos notebooks:
 - Classificação com Redes Neurais Multicamadas (MLP)
